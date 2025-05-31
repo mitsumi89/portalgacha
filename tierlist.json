@@ -1,0 +1,55 @@
+{
+  "bosses": {
+    "Generic PVE": {
+      "personagens": [
+        {
+          "nome": "Beyontin",
+          "funcao": "Especialista",
+          "tier": "Splus",
+          "elemento": "Reason",
+          "raridade": "ssr"
+        },
+        {
+          "nome": "Borgne",
+          "funcao": "DPS",
+          "tier": "S",
+          "elemento": "Odd",
+          "raridade": "ssr"
+        },
+        {
+          "nome": "Rosa",
+          "funcao": "Controlador",
+          "tier": "A",
+          "elemento": "Disorder",
+          "raridade": "ssr"
+        },
+        {
+          "nome": "Freya",
+          "funcao": "Sustainer",
+          "tier": "Splus",
+          "elemento": "Constant",
+          "raridade": "ssr"
+        }
+      ]
+    },
+
+    "Boss DokiDoki": {
+      "personagens": [
+        {
+          "nome": "Beyontin",
+          "funcao": "DPS",
+          "tier": "A",
+          "elemento": "Reason",
+          "raridade": "ssr"
+        },
+        {
+          "nome": "Borgne",
+          "funcao": "Controlador",
+          "tier": "B",
+          "elemento": "Odd",
+          "raridade": "ssr"
+        }
+      ]
+    }
+  }
+}
